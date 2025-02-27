@@ -1,8 +1,4 @@
 # crud_v1
-moCrud
-heres some crud and chit
-readthischit
-
 <br>$> git clone https://github.com/aljamima/phpSqlMonitoring 
 <br>$> cd phpSqlMonitoring
 <br>$> sudo apt install mysql-server apache2 php php-mysql php-mysqli phpmyadmin libapache2-mod-php
